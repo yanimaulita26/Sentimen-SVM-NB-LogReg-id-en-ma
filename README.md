@@ -1,4 +1,4 @@
-# IJAIN: SVM, Naive Bayes, and Logistic Regression for Trilingual Sentiment Classification
+# SVM, Naive Bayes, and Logistic Regression for Trilingual Sentiment Classification
 
 Reproducibility package for the IJAIN proceedings paper's 3-classifier comparison (Support Vector Machine, Naive Bayes, and Logistic Regression) on trilingual (Indonesian, English, Malay) binary sentiment classification.
 
